@@ -23,8 +23,8 @@ An entry-level data analyst role where I can grow, learn from experienced teams,
 
 ### 📊 Sample Dashboard from Power Bi project:  The world’s psychological burden
 Dashboards: -> application of:
-- ***visuals: Line charts, bar charts, KPI cards, Top 10 country table for quick comparison
-- ***interactivity: play axis, slicers, filters, user-defined parameters for indicator comparison (e.g., Happiness Score vs. Life Expectancy or Generosity)
+- ***Visuals***: Line charts, bar charts, KPI cards, Top 10 country table for quick comparison
+- ***Interactivity***: play axis, slicers, filters, user-defined parameters for indicator comparison (e.g., Happiness Score vs. Life Expectancy or Generosity)
 
 <p align="center">
   <img src="dashboard_1.png" width="30%" />
