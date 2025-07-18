@@ -4,7 +4,7 @@ I'm Julia – aspiring Data Analyst
 
 I’m a recent graduate in Business Analytics with a passion for turning data into actionable insights.  
 Currently building a portfolio of projects that combine data wrangling, visualization, and machine learning.
-I love finding patterns in messy data and helping people make smarter decisions with it.
+I love finding patterns in messy data and helping people make smarter decisions with it 🔥.
 
 ### 🔧 Tools & Skills
 - ***Data Analytics*** : SQL, Excel (Power Query, PivotTables), Power BI (data modeling, DAX, interactive reports) 
