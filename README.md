@@ -7,7 +7,7 @@ Currently building a portfolio of projects that combine data wrangling, visualiz
 I love finding patterns in messy data and helping people make smarter decisions with it.
 
 ### 🔧 Tools & Skills
-- ***Data Analytics*** : SQL, Excel (Power Query, PivotTables), Power BI  
+- ***Data Analytics*** : SQL, Excel (Power Query, PivotTables), Power BI (data modeling, DAX, interactive reports) 
 - ***Programming & ML*** : R, Python
 - ***Visualization***: Power BI (ggplot2, matplotlib), Excel (charts, conditional formatting, dashboards) 
 
