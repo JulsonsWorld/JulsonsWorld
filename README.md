@@ -21,4 +21,12 @@ I love finding patterns in messy data and helping people make smarter decisions 
 ### 🚀 I'm currently looking for...
 An entry-level data analyst role where I can grow, learn from experienced teams, and contribute through data-driven insights.
 
+### 📊 Sample Dashboard from Power Bi project:  The world’s psychological burden
+Dashboards: -> application of:
+- ***visuals: Line charts, bar charts, KPI cards, Top 10 country table for quick comparison
+- ***interactivity: play axis, slicers, filters, user-defined parameters for indicator comparison (e.g., Happiness Score vs. Life Expectancy or Generosity)
+
+![Dashboard screenshot](./dashboard_1.png)
+
+
 Feel free to check out my projects or connect with me on [LinkedIn](www.linkedin.com/in/juliagonciarczyk).
