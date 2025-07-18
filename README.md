@@ -26,7 +26,10 @@ Dashboards: -> application of:
 - ***visuals: Line charts, bar charts, KPI cards, Top 10 country table for quick comparison
 - ***interactivity: play axis, slicers, filters, user-defined parameters for indicator comparison (e.g., Happiness Score vs. Life Expectancy or Generosity)
 
-![Dashboard screenshot](./dashboard_1.png)
-
+<p align="center">
+  <img src="dashboard_1.png" width="30%" />
+  <img src="dashboard_2.png" width="30%" />
+  <img src="dashboard_3.png" width="30%" />
+</p>
 
 Feel free to check out my projects or connect with me on [LinkedIn](www.linkedin.com/in/juliagonciarczyk).
